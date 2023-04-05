@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tristantriest@gmail.com**
 
-- 📄 Know about my experiences [https://trvt.nl](https://trvt.nl)
+- 📄 Get to know more about me [https://trvt.nl](https://trvt.nl)
 
 - ⚡ Fun fact **I pretend I know how to code**
 
