@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan van Triest</h1>
 <h3 align="center">A full-stack developer currently studying at Eindhoven University of Technology.</h3>
 
-- 🔭 I’m currently working on [R-OV](r-ov.nl)
+- 🔭 I’m currently working on [R-OV](https://github.com/R-OV-NL)
 
 - 🌱 I’m currently learning **Test Driven development in Java / C#**
 
